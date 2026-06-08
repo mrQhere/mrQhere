@@ -1,6 +1,5 @@
 # Hi, I'm Q 👋
 
-I am a Full-Stack Developer and AI Researcher focused on **democratizing healthcare** through Edge Computing and Deep Learning. My mission is to build clinical-grade diagnostic tools that work in zero-infrastructure environments.
 
 
 ---
