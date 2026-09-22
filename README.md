@@ -19,3 +19,5 @@ Burp Suite · Nmap · FFUF · Amass · Nuclei · SQLMap · Python · ONNX · Kal
 Grinding CTFs (picoCTF → HTB/THM) · VAPT dev internship @ CountAI 
 
 
+https://auth.wokwi.com/__/auth/action?apiKey=AIzaSyDeSOFTk-xhmymi82SYFffgcxVOqRKh-Os&mode=signIn&oobCode=pfjjBK-am7UBZWuo3fjriova2XImCR9FaIcZCYeou7kAAAGgyEK5Zg&continueUrl=https://wokwi.com/email-signin&lang=en
+
